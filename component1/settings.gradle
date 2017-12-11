@@ -1,0 +1,4 @@
+rootProject.name = 'component1'
+
+include ':org.some.component1.api'
+include ':org.some.component1.services'
