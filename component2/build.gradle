@@ -9,3 +9,7 @@ subprojects {
         mavenCentral()
     }
 }
+
+task buildAll(type: GradleBuild) {
+	tasks = [ 'build' ]
+}

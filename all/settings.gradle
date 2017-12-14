@@ -1,5 +1,0 @@
-rootProject.name = 'all'
-
-includeBuild '../component1'
-includeBuild '../component2'
-includeBuild '../component3'
